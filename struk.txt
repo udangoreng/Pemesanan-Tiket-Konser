@@ -2,12 +2,12 @@
 +++++++++++++++++++++++++++++++++++++++
               DETAIL PEMBELIAN           
 +++++++++++++++++++++++++++++++++++++++++
-Nama          : Hasna
-No Telepon    : 037758245
-Email         : hsn@go.id
-Tanggal Beli  : 12/12/2024
-Jenis Tiket   : Goldvivpackage
+Nama          : Hasna Tya
+No Telepon    : 081234567890
+Email         : hasna55@gmail.con
+Tanggal Beli  : 23/12/2024
+Jenis Tiket   : Silvervivpackage
 Tanggal Konser: 11 September 2024
 Jumlah Tiket  : 2
-Total Bayar   : Rp 15300000
+Total Bayar   : Rp 10300000
 +++++++++++++++++++++++++++++++++++++++++

@@ -33,11 +33,9 @@ double totalHarga(int harga, int jumlah){
 }
 
 int main() {
-    // Tipe data
-    string nama, email, tanggal, no_telepon;
-    string nama_tiket, tanggal_konser; // Untuk menyimpan nama tiket dan tanggal konser
+    string nama, email, tanggal, no_telepon, nama_tiket, tanggal_konser;
     int pilihan_tiket, jumlah_tiket, pilihan_waktu;
-    double total_harga = 0; // Inisialisasi total harga
+    double total_harga = 0;
 
     // Header program
     cout << "+++++++++++++++++++++++++++++++++++++++" << endl;
